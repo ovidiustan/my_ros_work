@@ -1,0 +1,2 @@
+os_robot_status:usb_cam
+-DCATKIN_WHITELIST_PACKAGES=usb_cam -DCATKIN_DEVEL_PREFIX=/home/ovidiu/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/ovidiu/ros_workspace/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/ovidiu/ros_workspace/install
+
+Name: os_robot_status
+Description: Description of os_robot_status
+Version: 0.0.0
+Cflags: -I/home/ovidiu/ros_workspace/install/include
+Libs: -L/home/ovidiu/ros_workspace/install/lib 
+Requires: actionlib dynamic_reconfigure roscpp rospy std_msgs

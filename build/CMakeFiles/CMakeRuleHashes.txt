@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+7292c727c1b6fd00192e4a419dc4f82d /home/ovidiu/ros_workspace/devel/include/btx_patrol/BtxPatrolConfig.h
+376a67aa1758afc6845a505ceedcd2a2 CMakeFiles/clean_test_results

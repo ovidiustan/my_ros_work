@@ -1,0 +1,8 @@
+prefix=/home/ovidiu/ros_workspace/devel
+
+Name: btx_patrol
+Description: Description of btx_patrol
+Version: 0.0.0
+Cflags: -I/home/ovidiu/ros_workspace/devel/include -I/home/ovidiu/ros_workspace/src/btx_patrol/include
+Libs: -L/home/ovidiu/ros_workspace/devel/lib 
+Requires: actionlib dynamic_reconfigure roscpp rospy std_msgs

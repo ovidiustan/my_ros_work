@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="btx_patrol_with_user_input_node" pkg="btx_patrol" type="btx_patrol_with_user_input_node">
+  <param name="myTime" type="double" value="1.0" />
+  <param name="restore_defaults" type="bool" value="False" />
+</node>
+\endverbatim
+

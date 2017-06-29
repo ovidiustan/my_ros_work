@@ -1,0 +1,7 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~myTime" : \b [double] Comparison trigger between two images min: 1.0, default: 1.0, max: 20.0
+- \b "~restore_defaults" : \b [bool] Restore to the original configuration min: False, default: False, max: True
+
